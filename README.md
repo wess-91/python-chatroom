@@ -4,6 +4,7 @@ La structure est en étoile, comme le schéma ci-dessous :
 
 client 1 --------- serveur --------- client 2
                       |
+                      |
                    client 3
 
 Améliorations à apporter :
