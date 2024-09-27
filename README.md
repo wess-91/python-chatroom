@@ -1,9 +1,10 @@
 Actuellement, l’interface permet d’échanger des messages chiffrés entre plusieurs clients liés à un serveur.
+
+La structure est en étoile, comme le schéma ci-dessous :
+
 client 1 --------- serveur --------- client 2
                       |
                    client 3
-La structure est en étoile, comme le schéma ci-dessous :
-(Schéma)
 
 Améliorations à apporter :
 - L’authentification à deux facteurs est actuellement réalisée en vérifiant directement l’interface du serveur. Il faudrait plutôt que le code à 6 chiffres soit envoyé par mail.
