@@ -16,5 +16,3 @@ Améliorations à apporter :
 - La communication se fait actuellement avec un chiffrement asymétrique utilisant l’algorithme RSA. On pourrait utiliser les courbes elliptiques, ou opter pour un chiffrement hybride (échange de clés publiques avec un chiffrement asymétrique, puis utilisation d’un chiffrement symétrique une fois les clés échangées).
 - Il n’y a pas d’interface graphique, il faudrait en ajouter une.
 - Il n’y a actuellement qu’un seul salon de discussion. Il faudrait ajouter la possibilité de créer plusieurs salons.
-
-Si tu souhaites d’autres modifications ou précisions, n’hésite pas !
