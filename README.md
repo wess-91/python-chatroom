@@ -3,6 +3,7 @@ Actuellement, l’interface permet d’échanger des messages chiffrés entre pl
 La structure est en étoile, comme le schéma ci-dessous :
 
 client 1 --------- serveur --------- client 2
+
                       |
                       |
                    client 3
